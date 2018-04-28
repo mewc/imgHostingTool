@@ -1,10 +1,10 @@
-# zimg-host
+# ImgHostingTool (forked from zimg-host)
 
 Simple image hosting service
 
 # Demo
 
-http://img.ziggi.org/
+http://mewc.info/imghost
 
 # Backend requirement
 
